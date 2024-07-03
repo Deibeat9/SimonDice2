@@ -12,6 +12,17 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
+    //3
+    //4
+    //5
+    //6
+    //7
+    //8
+    //9
+    //10
+
+
+
     private Button buttonStart;
     private ArrayList<Integer> colorSequence;
     private int playerIndex = 0;
